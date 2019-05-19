@@ -1,7 +1,7 @@
 var mineflayer = require('mineflayer');
 
-var acc = ["katy0707@sbcglobal.net","gamer.3007@web.de","amoshul@list.ru","buzzie666@hotmail.com","asommers05@gmail.com","epp@eppicfilms.com"];
-var pass = ["katy0707123","jonny3007","Elder100","alfred95","1luckyday","9879Poop"];
+var acc = ["email1","email2","email3","email4","email5","email6"];
+var pass = ["pass1","pass2","pass3","pass4","pass5","pass6"];
 var m;
   
 var length = acc.length;
