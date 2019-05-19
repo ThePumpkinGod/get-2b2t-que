@@ -8,5 +8,5 @@ learn to code moran!
 do `npm install`
 and then `node 2b2t que.js`
 
-#cradit
+# cradit
 me the pumpkin god, and everyone that works on mineflayer
