@@ -1,0 +1,22 @@
+{
+  "name": "2b2t-que",
+  "version": "1",
+  "main": "2b2t que.js",
+  "scripts": {
+    "start": "node 2b2t que.js"
+  },
+  "dependencies": {
+    "mathjs": "^5.10.2",
+    "minecraft-crafter": "^1.1.0",
+    "minecraft-protocol": "^1.8.3",
+    "mineflayer": "^2.9.0",
+    "prismarine-chunk": "^1.11.0",
+    "prismarine-nbt": "^1.2.1",
+    "replace-in-file": "^4.1.0",
+    "replace-string": "^3.0.0",
+    "request": "^2.88.0"
+  },
+  "engines": {
+    "node": "8.x"
+  }
+}
